@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/robots-app/static/css/main.30814368.chunk.css",
+    "main.js": "/robots-app/static/js/main.a2875608.chunk.js",
+    "main.js.map": "/robots-app/static/js/main.a2875608.chunk.js.map",
+    "runtime~main.js": "/robots-app/static/js/runtime~main.cb3fb40b.js",
+    "runtime~main.js.map": "/robots-app/static/js/runtime~main.cb3fb40b.js.map",
+    "static/js/2.65aa1cca.chunk.js": "/robots-app/static/js/2.65aa1cca.chunk.js",
+    "static/js/2.65aa1cca.chunk.js.map": "/robots-app/static/js/2.65aa1cca.chunk.js.map",
+    "index.html": "/robots-app/index.html",
+    "precache-manifest.f332d4ba6b1edef9149a971b927f3aa6.js": "/robots-app/precache-manifest.f332d4ba6b1edef9149a971b927f3aa6.js",
+    "service-worker.js": "/robots-app/service-worker.js",
+    "static/css/main.30814368.chunk.css.map": "/robots-app/static/css/main.30814368.chunk.css.map"
+  }
+}
